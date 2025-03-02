@@ -20,11 +20,7 @@
 
 ---
 
-## 📫 **Connect with Me**
-- 🔗 [LinkedIn](www.linkedin.com/in/derlys-denis-780442253)
-- 📧 [Email](mailto:denis.derlys7@gmail.com)
 
- 
 
 <!--
 **dondenisray/dondenisray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
